@@ -1,3 +1,3 @@
 print("Hello World!!")
 print("KantaHayashi")
-print("get YOLO")
+print("Get YOLO")
