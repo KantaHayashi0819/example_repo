@@ -1,1 +1,3 @@
 ProxyJumpによるPushテスト
+
+vaccine上の公開鍵消してpushテスト
